@@ -22,11 +22,12 @@ A 2-D line chart was used to visualized result. Different goal level was on x-ax
 ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
+The first challenge I encountered in assignment was actually with the language setting for Excel. The default language for my laptop is Chinese, so the defualt language for my Excel is in Chinese too. I googled the solution and changed the language successfully to follow the instruction better. The second challenge was that when I type in the countif formula, I tried to find a easier way to copy the fomula from on column or row to another. However the parameter will change when I copy the fomula to the next column. I googled and found that "$" can fixed the problem by fixed the column or row for the parameter. 
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+May has the most number of sucessful outcomes among all months. the number of sucessful projects increase form March to May and decrease from May to September. The numbers of failed cases don't vary a lot among different months.
 
 - What can you conclude about the Outcomes based on Goals?
 
