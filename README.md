@@ -27,10 +27,11 @@ The first challenge I encountered in assignment was actually with the language s
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-May has the most number of sucessful outcomes among all months. the number of sucessful projects increase form March to May and decrease from May to September. The numbers of failed cases don't vary a lot among different months.
+May has the most number of sucessful outcomes among all months. the number of sucessful projects increase form March to May and decrease from May to September. The numbers of failed cases don't vary a lot among different months. I need to calculate whether the difference is significant to draw more accurate conclusion.
 
 - What can you conclude about the Outcomes based on Goals?
 The percentage of successful project is the highest when the goal is the lowest, and the percentage decreases with the goal when the goal is less than 29999. When the goal is between 45000 and 49999, the percentage of successful project is 0% which is the lowest. And the percentage of successful case and failed case have inverse relationship with each other.
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
+I may create a currency / country vs outcome graph, it may reveal the influence cultural factor and the liquidity of the currency on the outcome.
